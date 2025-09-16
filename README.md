@@ -27,15 +27,17 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
+<br>📩 Contact Me!</br>
 <li>
   <a href="mailto:melenjejimenez6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-melenjejimenez6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
   </a>
 </li>
+
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=MelenjeJimenez07&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MelenjeJimenez07)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MelenjeJimenez07&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MelenjeJimenez07&theme=material-palenight)](https://github.com/MelenjeJimenez07)
 </div>
 
 	
