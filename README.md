@@ -28,11 +28,11 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
 <br>📩 Contact Me!</br>
-<li>
+
   <a href="mailto:melenjejimenez6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-melenjejimenez6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
   </a>
-</li>
+
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
